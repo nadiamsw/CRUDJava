@@ -6,7 +6,6 @@ public class SelectSql {
 	
 	public static Connection selectSQL() {
 		Connection conn = null;
-		//i know menuliskan ini lebih ribet but let's just try it
 		String url 	= "jdbc:oracle:thin:@localhost:1521:xe";
 		String user	= "oracle";
 		String pass = "p@ssword";
