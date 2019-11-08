@@ -1,4 +1,4 @@
-package oracle_oop;
+package oracle;
 
 import java.sql.*;
 
